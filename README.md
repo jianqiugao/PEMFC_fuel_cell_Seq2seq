@@ -1,1 +1,2 @@
 # fuelcell_opt
+采用seq2seq多燃料电池PEMFC进行动态建模，并用遗传算法找到较优的操作
